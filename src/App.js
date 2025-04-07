@@ -11,7 +11,7 @@ function App() {
         <footer>
           This project was coded by Feiling and is{" "}
           <a
-            href="https://github.com/ling83-ft/weather-react"
+            href="https://github.com/ling83-ft/react-weather-app"
             target="_blank"
             rel="noopener noreferrer"
           >
