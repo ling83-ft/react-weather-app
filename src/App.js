@@ -16,6 +16,14 @@ function App() {
             rel="noopener noreferrer"
           >
             open-sourced on Github
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://react-weather-app-feiling.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            hosted on Netlify
           </a>
         </footer>
       </div>
